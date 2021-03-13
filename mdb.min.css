@@ -1311,7 +1311,7 @@ article,
 	aspect-ratio: auto !important;
 }
 
-.pagebody {
+article .pagebody {
 	font-size: 1.4rem !important;
 }
 
