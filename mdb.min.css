@@ -1310,6 +1310,12 @@ article,
 	width: 100%;
 	aspect-ratio: auto !important;
 }
+
+article p,
+div {
+	font-size: 1.4rem;
+}
+
 img,
 video {
 	aspect-ratio: attr(width) / attr(height);
