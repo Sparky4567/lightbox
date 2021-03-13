@@ -1311,9 +1311,9 @@ article,
 	aspect-ratio: auto !important;
 }
 
-article p,
-div {
-	font-size: 1.4rem;
+article div,
+p {
+	font-size: 1.4rem !important;
 }
 
 img,
