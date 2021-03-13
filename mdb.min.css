@@ -1311,10 +1311,6 @@ article,
 	aspect-ratio: auto !important;
 }
 
-article {
-	font-size: 1.5rem !important;
-}
-
 img,
 video {
 	aspect-ratio: attr(width) / attr(height);
